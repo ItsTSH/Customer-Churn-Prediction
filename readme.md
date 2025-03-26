@@ -40,16 +40,18 @@ Customer churn is a critical business challenge. This project offers:
 - pip
 
 ### 📦 Setup
+1. Clone the Repository:
 ```bash
-# Clone the repository
 git clone https://github.com/ItsTSH/Customer-Churn-Prediction
-cd Customer-Churn-Prediction
+```
 
-# Create virtual environment (optional but recommended)
+2. Create Virtual Environment (optional but recommended):
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-# Install dependencies
+```
+3. Install Dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
