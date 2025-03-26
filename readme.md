@@ -76,7 +76,8 @@ streamlit run app.py
 ## 🤖 Model
 
 ### 🧠 Machine Learning Algorithm(s)
-- XGBoost Regressor
+- Random Forest Classifier (For Feature Importance Analysis)
+- XGBoost Regressor (For Predictions)
 
 ### 📏 Evaluation Metrics
 - Mean Squared Error (MSE)
@@ -101,7 +102,7 @@ python predict.py --input customer_data.csv
 ```
 
 ## 📊 Project Results
-- **Model Accuracy:** 95.48%
+- **XGBoost Model Accuracy:** 95.48%
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
