@@ -27,7 +27,7 @@ predictions = st.Page(
 pg = st.navigation(pages = [dashboard, predictions])
 
 # Sidebar Content
-st.sidebar.text("Customer Churn Prediction ©️ 2025")
+st.sidebar.text("Customer Churn Prediction © 2025")
 
 # Run Navigation
 pg.run()
