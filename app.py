@@ -27,6 +27,21 @@ predictions = st.Page(
 pg = st.navigation(pages = [dashboard, predictions])
 
 # Sidebar Content
+st.markdown(
+        """
+        <style>
+            [data-testid="stSidebarNav"]::before {
+                content: "Customer Churn Prediction";
+                margin-left: 25px;
+                margin-top: 10px;
+                font-size: 25px;
+                position: relative;
+                top: 2px;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True,
+)
 st.sidebar.text("Customer Churn Prediction © 2025")
 
 # Run Navigation
