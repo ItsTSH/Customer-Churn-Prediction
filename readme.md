@@ -66,7 +66,7 @@ streamlit run app.py
 ## 🗃️ Data
 
 ### 📊 Dataset
-- **Source:** [Specify data source]
+- **Source:** [Kaggle](https://www.kaggle.com/)
 - **Features:**
   - Customer demographics
   - Usage patterns
