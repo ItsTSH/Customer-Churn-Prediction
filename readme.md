@@ -95,14 +95,18 @@ streamlit run app.py
 ### 💻 Local Development
 ```bash
 # Train the model
-python train_model.py
+python ./model/Customer_Churn_Prediction.py
 
 # Run predictions
-python predict.py --input customer_data.csv
+python ./model/Customer_Churn_Prediction.py --input ./dataset/dataset.csv
 ```
 
 ## 📊 Project Results
-- **XGBoost Model Accuracy:** 95.48%
+- **Evaluation Metrics (XGBoost Regression Model):**
+1. Mean Squared Error (MSE): 0.0450
+2. Root Mean Squared Error (RMSE): 0.2120
+3. Mean Absolute Error (MAE): 0.1292
+4. R² Score: 0.8168 
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
