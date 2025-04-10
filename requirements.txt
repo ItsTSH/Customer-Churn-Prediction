@@ -21,6 +21,7 @@ GitPython==3.1.44
 idna==3.10
 importlib_metadata==8.6.1
 Jinja2==3.1.6
+joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.8
@@ -51,6 +52,9 @@ referencing==0.36.2
 requests==2.32.3
 requests-html==0.10.0
 rpds-py==0.23.1
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
 setuptools==77.0.3
 sgmllib3k==1.0.0
 six==1.17.0
@@ -58,6 +62,7 @@ smmap==5.0.2
 soupsieve==2.6
 streamlit==1.43.2
 tenacity==9.0.0
+threadpoolctl==3.6.0
 toml==0.10.2
 tornado==6.4.2
 tqdm==4.67.1
