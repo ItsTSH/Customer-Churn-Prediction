@@ -132,7 +132,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Contact
 - 📧 **Email:** [tejindersingh0784@gmail.com]
 - 🔗 **GitHub:** [https://github.com/ItsTSH]
-
+- 📧 **Email:** [sashankskmishra@gmail.com]
+- 🔗 **GitHub:** [https://github.com/sskm664]
 ---
 
 ⭐ If you find this project helpful, please consider starring the repository! 🌟
