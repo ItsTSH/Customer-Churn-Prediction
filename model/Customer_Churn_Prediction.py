@@ -15,7 +15,7 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 import xgboost as xgb
 
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('model/dataset_testing.csv')
 
 df.head(10)
 
