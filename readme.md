@@ -134,6 +134,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - 🔗 **GitHub:** [https://github.com/ItsTSH]
 - 📧 **Email:** [sashankskmishra@gmail.com]
 - 🔗 **GitHub:** [https://github.com/sskm664]
+- 📧 **Email:** [suyashart30@gmail.com]
+- 🔗 **GitHub:** [https://github.com/SuyashArt]
 ---
 
 ⭐ If you find this project helpful, please consider starring the repository! 🌟
